@@ -2,43 +2,16 @@
 
 Welcome to my GitHub space! I'm a passionate and curious **developer-in-progress** 🚀 currently diving into the world of **web development**, **Java**, and all things tech that make ideas come to life! 💡
 
----
-
 ## 💼 What I'm up to:
 - 🌱 Exploring **Full Stack Development**
 - 💻 Currently learning **MERN Techstack**, **Web-dev**, and **responsive design**
 - 🎯 Building cute, creative, and useful web apps
 - 🧠 Program-solving
 
----
-
-## 🛠 Tech I Use:
-- **Languages**: C, Java, Python, HTML, CSS, MySQL
-- **Tools**: VS Code, Git, GitHub, Canva
-- **Learning**: React, JavaScript
-
----
-
 ## ✨ Projects I'm Proud Of:
 - 📝 **Student Record System** (HTML/CSS/JS CRUD App)
 - ☀️ **Weather App** with pastel themes & dark mode
 - 💡 **My portfolio** (HTML/CSS/JS App)
-
----
-
-## 🎨 Aesthetic + Vibes:
-I like making things that are:
-- 🎀 Clean & organized  
-- 🌸 Aesthetic & “pookified”  
-- 🎈 Interactive & user-friendly
-
----
-
-## 💬 Let’s Connect!
-Feel free to check out my repos, give feedback, or just say hi 👋  
-I'm always up for learning and collaborating!
-
----
 
 > *"Every great developer you know once struggled to write their first line of code."* 💙  
 Let’s keep growing, building, and creating cool things! 🚀
