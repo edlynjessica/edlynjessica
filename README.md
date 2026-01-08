@@ -4,7 +4,7 @@ Welcome to my GitHub space! I'm a passionate and curious **developer-in-progress
 
 ## 💼 What I'm up to:
 - 🌱 Exploring **Backend Development**
-- 💻 Currently learning **Python, MySQL"**
+- 💻 Currently learning **Python, MySQL**
 - 🎯 Building cute, creative, and useful apps
 - 🧠 Program-solving
 
