@@ -3,7 +3,7 @@
 ## Welcome to my GitHub space! I'm a passionate and curious **developer-in-progress** 🚀..
 
     I enjoy building real-world applications, exploring new technologies, and turning ideas into impactful solutions. 
-    From **developing ML-powered systems to participating in hackathons and competitive programming**
+    From developing ML-powered systems to participating in hackathons and competitive programming
     I'm always looking for opportunities to learn and create.!!!
 
 # 💼 What I'm Currently Doing
