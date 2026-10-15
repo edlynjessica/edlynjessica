@@ -1,77 +1,160 @@
-# 🌸 Hey there, I'm Edlyn Jessica! 💻✨
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│  EDLYN@GITHUB:~$ ./introduce.sh                               │
+└──────────────────────────────────────────────────────────────┘
+```
 
-## Welcome to my GitHub space! I'm a passionate and curious **developer-in-progress** 🚀..
+<h1 align="center">👾 Edlyn Jessica Philip</h1>
 
-    I enjoy building real-world applications, exploring new technologies, and turning ideas into impactful solutions. 
-    From developing ML-powered systems to participating in hackathons and competitive programming
-    I'm always looking for opportunities to learn and create.!!!
+<p align="center">
+  <code>Backend Developer</code> · <code>AI Enthusiast</code> · <code>Problem Solver</code>
+</p>
 
-# 💼 What I'm Currently Doing
+```python
+class Developer:
+    name = "Edlyn Jessica Philip"
+    degree = "B.E. Computer Science and Engineering"
+    college = "St. Joseph's College of Engineering"
+    cgpa = 9.19
+    location = "Chennai, India"
+    interests = ["Backend Development", "Applied AI", "DSA"]
 
-- 🎓 Pursuing B.E. Computer Science Engineering (CGPA: 9.14)
-- 🌱 Exploring Backend Development, Machine Learning, and System Design
-- 💻 Building full-stack and ML-powered applications
-- 🧠 Solving Data Structures & Algorithms problems daily
-- 🤝 Contributing to team projects and open-source initiatives
+    def motto(self):
+        return "Build. Debug. Learn. Repeat."
+```
 
+> A Computer Science and Engineering student who enjoys building backend applications, exploring practical AI solutions, and solving algorithmic problems.
 
-# 🛠️ Technical Skills
+<p align="center">
+  <a href="https://portfolio-rust-iota-r4aznyygi0.vercel.app/"><img src="https://img.shields.io/badge/./portfolio-Visit-8B8BBE?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/edlynjessica"><img src="https://img.shields.io/badge/./github-Profile-6E7681?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/edlyn-jessica-philip-086767337/"><img src="https://img.shields.io/badge/./linkedin-Connect-7895B2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:edlynjessica09@gmail.com"><img src="https://img.shields.io/badge/./email-Contact-B59BC8?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-###  Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+---
 
-###  Web Technologies
+## `01` — `$ cat /proc/current_focus`
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
+```bash
+$ cat current_focus.txt
+```
 
-###  Databases
+- 🐍 Building backend applications and REST APIs using Python and FastAPI.
+- 🗄️ Strengthening my SQL, relational database, and API design skills.
+- 🤖 Exploring applied AI, machine learning, and retrieval-augmented generation (RAG).
+- 🧠 Practicing Data Structures and Algorithms through competitive programming.
+- 🚀 Turning ideas into working projects and learning through hands-on development.
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+---
 
-###  Libraries & Frameworks
+## `02` — `$ ls -la ./tech-stack`
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+```bash
+$ tree skills/
+├── languages/
+├── backend-and-databases/
+├── applied-ai-and-data/
+└── tools-and-platforms/
+```
 
-###  Developer Tools
+**// Languages**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+</p>
 
-## ✨ Projects I'm Proud Of:
+**// Backend & Databases**
 
-- 🎯 **HireReady** (ML-Powered Student Placement Prediction Platform)
-- 🚑 **RoadSOS** (Emergency Response & Road Safety Assistance System)
-- 🚰 **Water Depletion Prediction System** (Machine Learning & Predictive Analytics)
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
-# DSA HeatMap
+**// Applied AI & Data**
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/edlyn_jessica09?ext=heatmap&theme=dark)](https://leetcode.com/edlynjessica09/)
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+</p>
 
-> *"Every great developer you know once struggled to write their first line of code."* 💙  
-Let’s keep growing, building, and creating cool things! 🚀
+**// Tools & Platforms**
 
-## 📊 GitHub Stats:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/OutSystems-ED1C24?style=flat-square&logo=outsystems&logoColor=white" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=edlynjessica&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=edlynjessica&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edlyn-jessica-philip-086767337/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edlynjessica09@gmail.com) 
+## `03` — `$ ./leetcode --activity`
 
+```bash
+$ fetching contribution_history...
+$ source: leetcode.com/u/edlyn_jessica09/
+```
 
+<p align="center">
+  <a href="https://leetcode.com/u/edlyn_jessica09/">
+    <img src="https://leetcard.jacoblin.cool/edlyn_jessica09?ext=heatmap&theme=dark" alt="LeetCode Activity Heatmap" />
+  </a>
+</p>
+
+---
+
+## `04` — `$ cat ./certifications.log`
+
+```text
+[2026]  AWS Certified AI Practitioner
+[2025]  Oracle Cloud Infrastructure 2025 Foundations Associate
+[2026]  Fundamental Algorithms: Design and Analysis
+        NPTEL · IIT Kharagpur · Elite Silver · Top 2%
+[2025]  Python for Data Science
+        NPTEL · IIT Madras · Elite Silver
+```
+
+---
+
+## `05` — `$ github --stats`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=edlynjessica&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=edlynjessica&theme=github_dark_dimmed&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## `06` — `$ ./connect.sh`
+
+```bash
+$ echo "Thanks for visiting my profile!"
+$ echo "Learning by building, growing through problem-solving."
+$ echo "Turning ideas into practical applications."
+$ exit 0
+```
+
+<p align="center">
+  <a href="https://portfolio-rust-iota-r4aznyygi0.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_My_Website-8B8BBE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/edlyn-jessica-philip-086767337/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-7895B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:edlynjessica09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-B59BC8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <code>while(alive) { learn(); build(); repeat(); }</code>
+</p>
